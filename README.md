@@ -1,8 +1,7 @@
-# tpi-libre-2024
+# Trabajo Práctico Integrador de Programación I
+**Alumno:** Tomás Santiago González
 
-Alumno: Tomás Santiago González
-
-Cursada: Programación 1 - 2023
+**Cursada:** Programación I - 2023
 
 A continuación se encuentra la consigna para el trabajo a realizar:
 
