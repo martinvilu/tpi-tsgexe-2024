@@ -1,3 +1,10 @@
+/*
+Trabajo integrador final
+TOMAS SANTIAGO GONZALEZ
+Modalidad libre
+Programacion 1 - Ingenieria en computacion
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
